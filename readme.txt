@@ -85,3 +85,8 @@ Titanium語法即可對其提供的原生元件進行操作，若使用PhoneGap，UI將不會是原生且效能
 
 Reference : https://appery.io/appbuilder/
 
+=========================
+
+Topic reference : Phone gap vs React Native
+http://stackoverflow.com/questions/33286451/phone-gap-vs-react-native
+
