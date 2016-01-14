@@ -91,3 +91,14 @@ img，影像檔案
 js，專案操作用JavaScript檔案
 res，專案資源檔案，圖示檔等，用於手機用途的影像檔
 spec，專案JavaScript函數庫檔案，例如AngularJS、jasmine等
+
+◎ PhoneGap plug-in
+
+Hello world sample
+https://github.com/don/cordova-plugin-hello
+
+Android plugins
+https://cordova.apache.org/docs/en/dev/guide/platforms/android/plugin.html
+
+iOS plugins
+https://cordova.apache.org/docs/en/dev/guide/platforms/ios/plugin.html

@@ -6,6 +6,9 @@ React Native enables you to build world-class application experiences on native 
 React Native 使你建置世界級應用程式其體驗如原生平台，並使用JavaScript與React一貫以來的開發經驗。
 React Native 專注於跨平台時的開發效率問題，學一技術用多處。
 
+React native is not 『write once, run anywhere』.  This is 『Learn once, write anywhere』.
+
+influenced
 ◎ iOS Setup 
 Xcode 7.0 or higher is required. It can be installed from the App Store.
 
@@ -26,3 +29,11 @@ Reference page :
 
 Build, test and share React Native apps.
 https://rnplay.org/
+
+3rd-party native modules
+https://react.parts/native
+
+React native video
+https://github.com/brentvatne/react-native-video
+
+Rethinking best practices
