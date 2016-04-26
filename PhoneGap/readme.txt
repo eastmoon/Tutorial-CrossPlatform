@@ -102,3 +102,24 @@ https://cordova.apache.org/docs/en/dev/guide/platforms/android/plugin.html
 
 iOS plugins
 https://cordova.apache.org/docs/en/dev/guide/platforms/ios/plugin.html
+
+¡· Build error issue
+
+---- Issue ----
+Cordova : [Error: Please install Android target: ¡§android-21¡¨
+http://stackoverflow.com/questions/29396252/cordova-error-please-install-android-target-android-21
+
+1. Goto modify project.properties, AndroidManifest.xml in
+- myApp/platforms/android/
+- myApp/platforms/android/CordovaLib/
+
+2. Modify project.properties
+# Project target.
+target=[latest version]
+
+3. AndroidManifest.xml
+<uses-sdk android:minSdkVersion="14" android:targetSdkVersion="[lastest version]" />
+
+4. lastest version look in 
+---- Issue ----
+C:\Program Files (x86)\Android\android-sdk\platforms
